@@ -9,3 +9,7 @@ the Arma 3 engine. Once stable, the plans of expanding are huge!
 
 Aside from the my Arma 3 hobby (Addiction!), I am the Director of GameBrewers UK Limited. I hope in the coming
 months I can release the first game of the company called CST.
+
+[GameBrewers UK Limited](https://www.gamebrewers.co.uk/) |
+[Barri3.org](https://www.barri3.org/) |
+[Legends of Patrol Operations](https://www.legends-gaming.com/)
