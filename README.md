@@ -11,5 +11,5 @@ Aside from the my Arma 3 hobby (Addiction!), I am the Director of GameBrewers UK
 months I can release the first game of the company called CST.
 
 [GameBrewers UK Limited](https://www.gamebrewers.co.uk/) |
-[Barri3.org](https://www.barri3.org/) |
+[Barri3.org](http://www.barri3.org/) |
 [Legends of Patrol Operations](https://www.legends-gaming.com/)
