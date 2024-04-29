@@ -1,4 +1,4 @@
-My name is Barri3, I am a hobbist programmer that has been writing
+My name is Barri3, I am a hobbyist programmer that has been writing
 code since 2009 and messing with the Bohemia Interactive Arma game series since early 2014.
 
 I have worked on many missions including A2 Domination, A2 Patrol Operations, A3 Patrol Operations,
